@@ -1,7 +1,7 @@
 # Wood-defect-detection
 
 ## Project Description
-This project utilizes YOLO (You Only Look Once) for detecting 8 different types of defects on wood timber. The model is trained to identify and classify various wood surface defects, providing accurate and efficient defect detection capabilities.
+This project utilizes YOLO (You Only Look Once) for detecting different types of defects on wood timber. The model is trained to identify and classify various wood surface defects
 
 ## Environment Setup
 
